@@ -40,7 +40,7 @@ build/Release
 
 # Dependency directories
 node_modules/
-android/app/
+android/
 ios/Pods/
 jspm_packages/
 
